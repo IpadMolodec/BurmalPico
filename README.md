@@ -16,17 +16,28 @@ BurmalPico runs on top of MicroPython and provides its own terminal and commands
 ## Commands
 
 led on
+
 led off
+
 led blink
+
 led blink inf
+
 stop
+
 led status
 
-led bit 10110010
-led bit save 1 10101010
+
+led bit (0-1)
+
+led bit save 1 (0-1)
+
 led bit 1
+
 led bit 2
+
 led bit 3
 
 reaction
+
 fetch
